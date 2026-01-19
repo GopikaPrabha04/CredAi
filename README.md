@@ -1,7 +1,7 @@
 # CredAi
-# HelloWorld.java
+## HelloWorld.java
 Simple java program to print "hello world"
-# ArrayListExample.java
+## ArrayListExample.java
 Java program to create an array list and print the elements of the array
-# LinkedListExample.java
+## LinkedListExample.java
 Java program to create a linked list and print the elements
